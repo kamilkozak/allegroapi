@@ -23,6 +23,7 @@ trait RequestTrait
             'Authorization' => "Bearer {$token}",
             'Accept' => $contentType,
             'Content-Type' => $contentType,
+            'Accept-Language' => 'pl-PL'
         ];
     }
 
