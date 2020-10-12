@@ -14,7 +14,7 @@
         "lcobucci/jwt": "^3.3",
         "guzzlehttp/guzzle": "^6.3",
         "ext-json": "*",
-        "ramsey/uuid": "^3.8",
+        "ramsey/uuid": "^3|^4",
         "ext-fileinfo": "*",
         "ext-soap": "*",
         "psr/log": "^1.1",
